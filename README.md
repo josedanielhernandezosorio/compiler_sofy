@@ -1,6 +1,6 @@
-# Compiler Sofy
+# Compiler ASCII
 
-Compiler that runs the Sofy language and encodes the languages ​​to Assembler
+Compiler that runs the ASCII language and encodes the languages ​​to Assembler
 
                                     Autor Hernández Osorio José Daniel
                                             
